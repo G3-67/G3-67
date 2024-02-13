@@ -36,6 +36,6 @@ Show your dynamically generated LeetCode stats on your GitHub profile or your we
 
 LeetCode and LeetCode CN are both supported.
 
-[Playground: Try It Now](https://leetcard.jacoblin.cool/sabarish_2805?theme=dark&font=Pridi)
+[Playground: Try It Now](https://leetcode.card.workers.dev/sabarish_2805?theme=unicorn&font=baloo&extension=null)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sabarish_2805?theme=dark&font=Pridi)](https://leetcard.jacoblin.cool/sabarish_2805?theme=dark&font=Pridi)
+[![LeetCode Stats](https://leetcode.card.workers.dev/sabarish_2805?theme=unicorn&font=baloo&extension=null)](https://leetcode.card.workers.dev/sabarish_2805?theme=unicorn&font=baloo&extension=null)
