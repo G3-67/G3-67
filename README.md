@@ -30,45 +30,12 @@
 
 # LeetCode Stats Card
 
-[![CodeFactor](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
+[![CodeFactor](https://www.codefactor.io/repository/github/sabarish_2805/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/sabarish_2805/leetcode-stats-card)
 
 Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 
 LeetCode and LeetCode CN are both supported.
 
-[Playground: Try It Now](https://leetcard.jacoblin.cool/)
+[Playground: Try It Now](https://leetcard.sabarish_2805/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
-
-## Features
-
-- 📈 Clean and simple LeetCode stats, for both `us` and `cn` sites
-- 🎨 Multiple themes and 1,300+ fonts - [Theme](#theme-default-lightdark), [Font](#font-default-baloo_2)
-- 🪄 Fully customizable using CSS - [Custom Stylesheets](#sheets-default-)
-- ⚡️ Fast and global edge network - [Cloudflare Workers](https://workers.cloudflare.com/)
-- 🚫 No tracking, controlable cache - [Cache](#cache-default-60)
-- 🍀 Open source - [MIT License](./LICENSE)
-- ⚙️ Extended-cards: `activity`, `contest`, `heatmap`
-
-It also has a [NPM package](https://www.npmjs.com/package/leetcode-card) and a [highly extensible system](./src/core/index.ts), so you can easily customize it to your needs.
-
-CLI tool will be created if I have time.
-Want to contribute? Feel free to open a pull request!
-
-## Usage
-
-Simply copy the code below, paste it into your `README.md`, and change the path to your leetcode username (case-insensitive).
-
-```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
-```
-
-Congratulation! You are now showing your LeetCode stats on your profile!
-
-Want a hyperlink? Try this:
-
-```md
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
-```
-
-### Endpoint
+[![LeetCode Stats](https://leetcard.sabarish_2805.cool/sabarish_2805?theme=unicorn&extension=activity)](https://leetcard.sabarish_2805/sabarish_2805?theme=unicorn&extension=activity)
