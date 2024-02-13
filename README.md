@@ -30,11 +30,7 @@
 
 # LeetCode Stats Card
 
-[![CodeFactor](https://www.codefactor.io/repository/github/sabarish_2805/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/sabarish_2805/leetcode-stats-card)
-
-Show your dynamically generated LeetCode stats on your GitHub profile or your website!
-
-LeetCode and LeetCode CN are both supported.
+LeetCode Profile
 
 [Playground: Try It Now](https://leetcode.card.workers.dev/sabarish_2805?theme=unicorn&font=baloo&extension=null)
 
