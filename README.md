@@ -38,4 +38,4 @@ LeetCode and LeetCode CN are both supported.
 
 [Playground: Try It Now](https://leetcard.jacoblin.cool/sabarish_2805?theme=dark&font=Pridi)
 
-[![LeetCode Stats](https://leetcard.sabarish_2805.cool/sabarish_2805?theme=unicorn&extension=activity)](https://leetcard.sabarish_2805/sabarish_2805?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sabarish_2805?theme=dark&font=Pridi)](https://leetcard.jacoblin.cool/sabarish_2805?theme=dark&font=Pridi)
